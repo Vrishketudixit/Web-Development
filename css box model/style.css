@@ -1,0 +1,79 @@
+/* h1{
+    color: blueviolet;
+} */
+/* .title{
+    color: blue;
+}
+.text{
+    color: brown;
+    text-align: center;
+}
+.text-center{
+    color: rgb(17, 79, 133);
+} */
+
+/* CSS Box Model
+In CSS classes are used and ID are used to target element mostly used in JS
+border=thickness,style(solid,dotted,dashed,groove),color
+padding=used whenever u want space inside border
+margin=used whenever u want space outside border
+border-radius=circular corners...... it has Four values - border-radius: 15px 50px 30px 5px; (first value applies to top-left corner, second value applies to top-right corner,
+ third value applies to bottom-right corner, and fourth value applies to bottom-left corner)
+
+*/
+
+/* .card{ */
+    /* border:5px dotted blue ; */
+    /* border:5px dashed blue ; */
+    /* border:5px solid blue ; */
+            
+   /* border:2px solid lightgray ;
+   background-color: #f6cbcb;
+   font-family: Arial, Helvetica, sans-serif;
+   border-radius: 16px;
+   width:400px ;
+    /* height:400px ; */
+    /* padding: 50px; */
+    /* margin: 50px; */
+    /* margin: auto; */
+    /* border: 2px solid lightgray;
+    background-color: #bcfcff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+}
+.user{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.text-center{
+    text-align: center;
+} */
+.btn{
+    background-color: rgb(132, 30, 196);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    border-radius: 8px;
+}
+.input{
+    border: 1px solid rgb(219, 213, 213);
+    padding: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px ;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.card{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 16px;
+    width: 400px;
+    box-sizing: border-box;
+    margin:auto ;
+    border-radius: 8px;
+}
